@@ -1,0 +1,30 @@
+{
+  "name": "react-dev",
+  "version": "1.0.0",
+  "description": "react temp project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayaraj342/react-dev.git"
+  },
+  "keywords": [
+    "npx parcel index.html",
+    "npm parcel build index.html"
+  ],
+  "author": "Jayaraj SG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayaraj342/react-dev/issues"
+  },
+  "homepage": "https://github.com/Jayaraj342/react-dev#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
